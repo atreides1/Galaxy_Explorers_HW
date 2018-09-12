@@ -2,6 +2,8 @@ Homework 1: Galaxy Explorers
 
 Note: the README.md looks terrible on Github! I suggest downloading the repo and reading it from your favorite text editor.
 
+Note 1: The main files are this one and update_locations.c
+
 ###### Part 1 ###########
 
 Trials:	
@@ -69,5 +71,5 @@ Graph: see "Part2_data.png"
 ###### Part 3 ###########
 
 Floats (original): Trials were in the range [0.004 - 0.02] 
-Doubles: In order to test doubles, I had to decrease the magnitude of iterations from floats by 10. When I ran that, using a shell script (much less typing!) I found the results to be comparable to Floats.
+Doubles: In order to test doubles, I had to decrease the magnitude of iterations from floats by 10. When I ran that, using a shell script (hw1.sh - much less typing!) I found the results to be comparable to Floats.
 
