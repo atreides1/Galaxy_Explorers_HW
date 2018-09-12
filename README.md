@@ -66,7 +66,7 @@ Object Count:		# of Iterations:		Mean Time:
 2^23 (8338608)		100						0.00839
 2^24 (16777216)		10						0.017881
 
-Graph: see "Part2_data.png"
+Graph: see "Part2_data.png" - The graph got a bit wonky after I replotted it to fix a margin.
 
 ###### Part 3 ###########
 
