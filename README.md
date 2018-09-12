@@ -1,5 +1,7 @@
 Homework 1: Galaxy Explorers
 
+Note: the README.md looks terrible on Github! I suggest downloading the repo and reading it from your favorite text editor.
+
 ###### Part 1 ###########
 
 Trials:	
